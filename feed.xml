@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>github-blog</title>
-    <link href="https://VkRainB.github.io/feed.xml" rel="self" />
-    <link href="https://VkRainB.github.io" />
+    <link href="file:///C:\Users\Administrator\Documents\Publii\sites\github-blog\preview/feed.xml" rel="self" />
+    <link href="file:///C:\Users\Administrator\Documents\Publii\sites\github-blog\preview" />
     <updated>2024-04-12T13:55:18+08:00</updated>
     <author>
         <name>vkrian</name>
     </author>
-    <id>https://VkRainB.github.io</id>
+    <id>file:///C:\Users\Administrator\Documents\Publii\sites\github-blog\preview</id>
 
     <entry>
         <title>第一个文章</title>
         <author>
             <name>vkrian</name>
         </author>
-        <link href="https://VkRainB.github.io/test.html"/>
-        <id>https://VkRainB.github.io/test.html</id>
+        <link href="file:///C:\Users\Administrator\Documents\Publii\sites\github-blog\preview/test.html"/>
+        <id>file:///C:\Users\Administrator\Documents\Publii\sites\github-blog\preview/test.html</id>
 
         <updated>2024-04-12T13:29:04+08:00</updated>
             <summary>
