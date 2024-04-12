@@ -3,10 +3,22 @@
     <title>github-blog</title>
     <link href="https://vkrian.github.io/feed.xml" rel="self" />
     <link href="https://vkrian.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-04-12T13:29:04+08:00</updated>
     <author>
         <name>vkrian</name>
     </author>
     <id>https://vkrian.github.io</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>vkrian</name>
+        </author>
+        <link href="https://vkrian.github.io/test.html"/>
+        <id>https://vkrian.github.io/test.html</id>
+
+        <updated>2024-04-12T13:29:04+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
