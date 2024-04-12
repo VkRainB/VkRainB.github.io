@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "github-blog",
     "description": "",
-    "home_page_url": "file:///C:\Users\Administrator\Documents\Publii\sites\github-blog\preview",
-    "feed_url": "file:///C:\Users\Administrator\Documents\Publii\sites\github-blog\preview/feed.json",
+    "home_page_url": "https://VkRainB.github.io",
+    "feed_url": "https://VkRainB.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "vkrian"
     },
     "items": [
         {
-            "id": "file:///C:\Users\Administrator\Documents\Publii\sites\github-blog\preview/test.html",
-            "url": "file:///C:\Users\Administrator\Documents\Publii\sites\github-blog\preview/test.html",
+            "id": "https://VkRainB.github.io/test.html",
+            "url": "https://VkRainB.github.io/test.html",
             "title": "第一个文章",
             "summary": "1 2 3",
             "content_html": "<p><em>1</em></p>\n<p>2</p>\n<p>3</p>",
