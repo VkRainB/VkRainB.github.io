@@ -3,14 +3,14 @@
     <title>github-blog</title>
     <link href="https://VkRainB.github.io/feed.xml" rel="self" />
     <link href="https://VkRainB.github.io" />
-    <updated>2024-04-12T13:29:04+08:00</updated>
+    <updated>2024-04-12T13:55:18+08:00</updated>
     <author>
         <name>vkrian</name>
     </author>
     <id>https://VkRainB.github.io</id>
 
     <entry>
-        <title>test</title>
+        <title>第一个文章</title>
         <author>
             <name>vkrian</name>
         </author>
@@ -18,7 +18,17 @@
         <id>https://VkRainB.github.io/test.html</id>
 
         <updated>2024-04-12T13:29:04+08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    1 2 3
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>1</em></p>
+<p>2</p>
+<p>3</p>
+            ]]>
+        </content>
     </entry>
 </feed>
